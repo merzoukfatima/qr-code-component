@@ -33,8 +33,8 @@ Using class selector such as:
 ```css
 p.text {
   font-size: small;
-  font-weight: 500;
-  color: gray;
+  font-weight: 400;
+  color: hsl(220, 15%, 55%);
 }
 ```
 
